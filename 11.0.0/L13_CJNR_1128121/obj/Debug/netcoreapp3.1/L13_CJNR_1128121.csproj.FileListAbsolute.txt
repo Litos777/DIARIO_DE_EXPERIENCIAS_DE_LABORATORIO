@@ -1,0 +1,14 @@
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.exe
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.deps.json
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.runtimeconfig.json
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.runtimeconfig.dev.json
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.dll
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\bin\Debug\netcoreapp3.1\L13_CJNR_1128121.pdb
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.csproj.AssemblyReference.cache
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.AssemblyInfoInputs.cache
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.AssemblyInfo.cs
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.dll
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.pdb
+C:\Users\Carlos Navajas\source\repos\L13_CJNR_1128121\obj\Debug\netcoreapp3.1\L13_CJNR_1128121.genruntimeconfig.cache
